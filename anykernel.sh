@@ -14,7 +14,7 @@ device.name1=violet
 device.name2=
 device.name3=
 device.name5=
-supported.versions=14.0-16.0
+supported.versions=13.0-16.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
