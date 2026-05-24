@@ -6,17 +6,17 @@
 properties() { '
 kernel.string=ヴォイド
 do.devicecheck=1
-do.modules=0
+do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=violet
-device.name2=
-device.name3=
-device.name5=
-supported.versions=13.0-16.0
-supported.patchlevels=
-supported.vendorpatchlevels=
+device.name1=V0id
+device.name2=シャドー
+device.name3=ゼロ
+device.name4=グリッチ
+supported.versions=6.0 - 7.1.2
+supported.patchlevels=2026-05 -
+supported.vendorpatchlevels=2026-05
 '; } # end properties
 
 
